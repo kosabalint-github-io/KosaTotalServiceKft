@@ -1,0 +1,2 @@
+# KosaTotalServiceKft
+Informatika
